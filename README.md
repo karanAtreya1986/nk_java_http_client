@@ -2,7 +2,6 @@
 
 [![Java Version](https://img.shields.io/badge/Java-11%2B-orange.svg)](https://www.oracle.com/java/)
 [![Maven](https://img.shields.io/badge/Maven-3.6%2B-blue.svg)](https://maven.apache.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 A modern Java demonstration project showcasing the power of the native **java.net.http.HttpClient** (introduced in Java 11). This project illustrates how to perform RESTful API operations, manage headers, and handle JSON serialization/deserialization using the **Jackson** library.
 
@@ -97,10 +96,6 @@ JavaHttpClient/
 - [Jackson](https://github.com/FasterXML/jackson) - For JSON processing.
 - [ReqRes](https://reqres.in/) - Hosted REST API for testing.
 
----
-
-## 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 Created with ❤️ by [Karan Atreya](https://github.com/karanAtreya1986)
